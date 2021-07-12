@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RubinVelcani/vintage.git"
+    "url": "git+https://github.com/RubinVelcani/vintage-s.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RubinVelcani/vintage/issues"
+    "url": "https://github.com/RubinVelcani/vintage-s/issues"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
